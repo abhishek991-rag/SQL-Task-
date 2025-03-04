@@ -1,7 +1,6 @@
 # SQL-Task-
 E-commerce Database Setup
 
-Overview
 
 This SQL script creates a simple e-commerce database system with tables for customers, products, orders, and order items. It also includes sample data and queries for retrieving relevant business insights.
 
